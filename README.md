@@ -4,7 +4,7 @@ El proyecto apunta a crear un sistema de bedelías para el CERP del Este, despu�
 hemos realizado los siguients casos de uso a partir de lo que ellos nos plantearon.
 Lo principal y más importante los usuarios Administradores deben ser capaces de cargar tanto profesores como alumnos además de horarios y mesas de exámenes.
 
-Para realizar dicho software hemos decidido emplear un sistema de desarrollo iterativo el cuál nos permite un trabajo a la par con el cliente.
+**Para realizar dicho software hemos decidido emplear un sistema de desarrollo iterativo el cuál nos permite un trabajo a la par con el cliente.**
 
 
 **Modelo iterativo:**
@@ -19,7 +19,36 @@ Este modelo se suele utilizar en proyectos en los que los requisitos no están c
 El modelo iterativo permite un contacto paulatino con el cliente, lo cual facilita la evacuación de dudas y el trabajo en nuevos requerimientos.
 Por otro lado esto requiere un trabajo social mayor por parte del equipo de desarrollo para lograr hacer que el cliente comprenda las limitaciones del producto.
 Dicho esto, el modelo iterativo debe contar con varias entregas de un producto funcionál el cuál debe ir mejorando en cada iteración, en otras palabras este modelo permite: gestionar la complejidad del proyecto, mitigar desde el inicio los riesgos, conocer el progreso real del proyecto, obtener resultados importantes y usables ya desde las primeras iteraciones, etc.
-Uno de los grandes problemas dentro de este sistema es la disponibilidad del cliente ya que si no se cuenta con el mismo, las iteraciones no serán posibles y no se podrán obtener nuevos requerimientos para la siguiente iteración.
+[![21-04-01-Compromiso-con-el-Cliente-pre.jpg](https://i.postimg.cc/qMHyBpMd/21-04-01-Compromiso-con-el-Cliente-pre.jpg)](https://postimg.cc/w3F708mW)
+
+**Uno de los grandes problemas dentro de este sistema es la disponibilidad del cliente ya que si no se cuenta con el mismo, las iteraciones no serán posibles y no se podrán obtener nuevos requerimientos para la siguiente iteración.**
+
+
+
+**SISTEMA DE BEDELÍAS**
+
+*El sistema contará con:*
+
+Estudiantes.
+
+Administrativos.
+
+Profesores.
+
+Grupos.
+
+Materias.
+
+Exámenes.
+
+Los Administrativos pueden cargar tanto alumnos como profesores, crear mesas de exámenes y grupos.
+
+Los alumnos pueden ser parte de un solo grupo, cursar 1 o más materias y estar inscriptos en uno o más examenes.
+
+Los profesores puede dictar 1 o más materias, son los encargados de supervisar los exámenes.
+
+**Para clarificar lo dicho anteriormente se adjunta un MER de la base de datos**
+
 
 
 
